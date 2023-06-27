@@ -19,6 +19,9 @@ t10.baidu.com
 t11.baidu.com
 t12.baidu.com
 
+#腾讯（可能有多余项）
+pgdt.gtimg.cn
+
 # 未知广告 来自#49反馈
 stats.chinaz.com
 
